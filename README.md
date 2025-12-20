@@ -7,13 +7,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="100"/>
   </a>
   <a href="https://jahirul-islam-tuku.web.app/">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="100"/>
   </a>
   <a href="https://www.facebook.com/jahirulislamtuku">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="50"/>
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="100"/>
   </a>
 </div>
 
