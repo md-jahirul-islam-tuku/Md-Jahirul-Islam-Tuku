@@ -6,16 +6,31 @@
 ## 📫 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="300"/>
+  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" 
+         width="90" 
+         alt="LinkedIn"/>
   </a>
-  <a href="https://jahirul-islam-tuku.web.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="300"/>
+
+  <a href="https://jahirul-islam-tuku.web.app/" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" 
+         width="90" 
+         alt="Portfolio"/>
   </a>
-  <a href="https://www.facebook.com/jahirulislamtuku" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="300"/>
+
+  <a href="https://www.facebook.com/jahirulislamtuku" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" 
+         width="90" 
+         alt="Facebook"/>
   </a>
 </div>
+
 
 ---
 
