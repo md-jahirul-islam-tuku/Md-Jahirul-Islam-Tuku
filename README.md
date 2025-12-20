@@ -1,46 +1,54 @@
-<hr/>
+# 👋 Hi, I'm Md Jahirul Islam Tuku  
+**Web Developer | MERN Stack Developer**
 
-![Web Developer || MERN Stack Developer || Software Development](https://media.licdn.com/dms/image/D5616AQE9cbRLIejQ3w/profile-displaybackgroundimage-shrink_350_1400/0/1673438752187?e=1678924800&v=beta&t=HszH_W-j9GLSrSi5RN0uJlli5Km-kPIhX2Rwmwpiw-Q)
+---
 
-## :mailbox: Connect with me
-<br/>
+## 📫 Connect With Me  
 
-[<p align="center"><img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" target="_blank">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" target="_blank">](https://jahirul-islam-tuku.web.app/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" target="_blank"></p>](https://www.facebook.com/jahirulislamtuku)
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="50"/>
+  </a>
+  <a href="https://jahirul-islam-tuku.web.app/">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="50"/>
+  </a>
+  <a href="https://www.facebook.com/jahirulislamtuku">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="50"/>
+  </a>
+</div>
 
+---
 
-## 👀 Current overview
-<br/>
+## 👨‍💻 About Me
+- 🌍 Based in Bangladesh  
+- 🔭 Working on MERN projects  
+- 🌱 Learning: Next.js  
+- 👯 Seeking: Web Developer role  
+- ⚡ Fun fact: I love learning modern web technologies  
 
-### 🌏 I'm from Bangladesh.
-### 🔭 I’m working - on Web Development in my establishment. 
-### 🌱 I’m exploring - React.js. 
-### 👯 I’m looking - For Web Developer position in a company. 
-### 🤔 I’m trying - To learn Next.js. 
-### ⚡ Fun fact - I love to learn web development
+---
 
-<br/>
+## 🧰 Skills & Tools  
 
-## :computer: Knowledge and Skills
-<br/>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://i.ibb.co/j89FQmb/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://i.ibb.co/fqR776P/git.png"/>
-<img src="https://i.ibb.co/hd0HQsM/figma.png"/>
-<img src="https://i.ibb.co/tzWktvr/mongodb.png"/>
-</p>
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/HTML.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/css.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/react.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/tailwind.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Bootsrap.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/node.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png" width="50"/>
+  <img src="https://i.ibb.co/fqR776P/git.png" width="50"/>
+  <img src="https://i.ibb.co/hd0HQsM/figma.png" width="50"/>
+  <img src="https://i.ibb.co/tzWktvr/mongodb.png" width="50"/>
+</div>
 
-## :chart_with_upwards_trend: Current Stats
+---
 
-<br/>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-tuku&theme=radical&hide_border=false" /><br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-</p>
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-tuku&theme=radical" />
+  <br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical&count_private=true" />
+</div>
