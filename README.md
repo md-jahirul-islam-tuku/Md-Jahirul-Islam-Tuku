@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Md Jahirul Islam Tuku  
-**Web Developer | MERN Stack Developer**
+# 👋 Hi, I'm Jahirul Islam Tuku  
+**Frontend Developer | MERN Stack Developer**
 
 ---
 
@@ -21,10 +21,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌍 Based in Bangladesh  
+- 🌍 Based in Saudi Arabia, Medina  
 - 🔭 Working on MERN projects  
 - 🌱 Learning: Next.js  
-- 👯 Seeking: Web Developer role  
+- 👯 Seeking: Frontend Developer role  
 - ⚡ Fun fact: I love learning modern web technologies  
 
 ---
