@@ -6,13 +6,13 @@
 ## 📫 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="150"/>
   </a>
-  <a href="https://jahirul-islam-tuku.web.app/" target="_blank">
+  <a href="https://jahirul-islam-tuku.web.app/" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="150"/>
   </a>
-  <a href="https://www.facebook.com/jahirulislamtuku" target="_blank">
+  <a href="https://www.facebook.com/jahirulislamtuku" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="150"/>
   </a>
 </div>
