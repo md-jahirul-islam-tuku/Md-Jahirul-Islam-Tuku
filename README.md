@@ -75,9 +75,9 @@ Git · GitHub · Firebase · Figma · VS Code
 ## 📊 GitHub Activity  
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=md-jahirul-islam-tuku&theme=radical" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=md-jahirul-islam-tuku&theme=radical&hide_border=true" />
   <br/>
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-jahirul-islam-tuku&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-jahirul-islam-tuku&theme=github_dark" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ Git · GitHub · Firebase · Figma · VS Code
 ## 📈 Languages Overview  
 
 <div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-jahirul-islam-tuku&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-jahirul-islam-tuku&theme=github_dark" />
 </div>
 
 ---
