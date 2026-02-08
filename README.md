@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jahirul Islam Tuku  
+# 👋 Hi, I'm Md Jahirul Islam Tuku  
 ### Frontend Developer | ReactJS | NextJS | MERN Stack Developer  
 
 Passionate frontend developer focused on building **modern, responsive, and scalable web applications** using React, Next.js, and the MERN stack. I love clean UI, performance optimization, and learning new web technologies.
