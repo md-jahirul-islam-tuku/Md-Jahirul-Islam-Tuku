@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-tuku&theme=radical" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Md-Jahirul-Islam-Tuku&theme=radical" />
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Md-Jahirul-Islam-Tuku&show_icons=true&theme=radical&cache_seconds=1800" />
 </div>
