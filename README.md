@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jahirul Islam Tuku  
-**Frontend Developer | MERN Stack Developer**
+**Frontend Developer | ReactJS | NextJS | MERN Stack Developer**
 
 ---
 
 ## 📫 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-jahirul-islam-tuku/" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.linkedin.com/in/jahirul-islam-tuku/" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="150"/>
   </a>
   <a href="https://jahirul-islam-tuku.web.app/" target="_blank" rel="noreferrer noopener">
@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-tuku&theme=radical" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=JI-TUKU&theme=radical" />
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=JI-TUKU&theme=radical&count_private=true" />
 </div>
