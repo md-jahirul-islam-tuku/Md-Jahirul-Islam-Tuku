@@ -72,20 +72,20 @@ Git · GitHub · Firebase · Figma · VS Code
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=md-jahirul-islam-tuku&theme=radical" />
   <br/>
-  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=md-jahirul-islam-tuku&show_icons=true&theme=radical" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-jahirul-islam-tuku&theme=radical" />
 </div>
 
 ---
 
-## 📈 Most Used Languages  
+## 📈 Languages Overview  
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=md-jahirul-islam-tuku&layout=compact&theme=radical" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-jahirul-islam-tuku&theme=radical" />
 </div>
 
 ---
