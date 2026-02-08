@@ -77,7 +77,7 @@ Git · GitHub · Firebase · Figma · VS Code
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Md-Jahirul-Islam-Tuku&theme=radical" />
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Md-Jahirul-Islam-Tuku&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ Git · GitHub · Firebase · Figma · VS Code
 ## 📈 Most Used Languages  
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Jahirul-Islam-Tuku&layout=compact&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-jahirul-islam-tuku&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
