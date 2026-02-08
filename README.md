@@ -77,7 +77,7 @@ Git · GitHub · Firebase · Figma · VS Code
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Md-Jahirul-Islam-Tuku&theme=radical" />
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&show_icons=true&theme=radical&hide_border=true&v=1" />
+  <img src="https://stats-github.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical" />
 </div>
 
 ---
