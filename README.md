@@ -31,6 +31,22 @@ Git · GitHub · Firebase · Figma · VS Code · ChatGPT · Gemini
 
 ---
 
+## 📊 GitHub Activity  
+
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=md-jahirul-islam-tuku&theme=radical" />
+</div>
+
+---
+
+## 📈 Languages Overview  
+
+<div align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-jahirul-islam-tuku&theme=radical" />
+</div>
+
+---
+
 ## 📫 Connect With Me  
 
 <div align="center">
@@ -69,22 +85,6 @@ Git · GitHub · Firebase · Figma · VS Code · ChatGPT · Gemini
 - React & Tailwind CSS  
 - Fully responsive and optimized UI  
 🔗 Live: https://jahirul-islam-tuku.web.app  
-
----
-
-## 📊 GitHub Activity  
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=md-jahirul-islam-tuku&theme=radical" />
-</div>
-
----
-
-## 📈 Languages Overview  
-
-<div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-jahirul-islam-tuku&theme=radical" />
-</div>
 
 ---
 
