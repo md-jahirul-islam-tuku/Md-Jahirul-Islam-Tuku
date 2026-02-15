@@ -5,32 +5,6 @@ Passionate frontend developer focused on building **modern, responsive, and scal
 
 ---
 
-## 📫 Connect With Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jahirul-islam-tuku/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="140"/>
-  </a>
-  <a href="https://jahirul-islam-tuku.web.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="140"/>
-  </a>
-  <a href="https://www.facebook.com/jahirulislamtuku" target="_blank">
-    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="140"/>
-  </a>
-</div>
-
----
-
-## 👨‍💻 About Me  
-
-- 🌍 Based in Saudi Arabia (Medina)  
-- ⚛️ Frontend-focused React & Next.js Developer  
-- 🔄 Experienced with REST APIs & MongoDB  
-- 🚀 Building real-world MERN projects  
-- 🎯 Open to Frontend / React Developer opportunities  
-
----
-
 ## 🧰 Skills & Tools  
 
 **Frontend**  
@@ -54,6 +28,32 @@ Git · GitHub · Firebase · Figma · VS Code
   <img src="https://i.ibb.co/fqR776P/git.png" width="45"/>
   <img src="https://i.ibb.co/hd0HQsM/figma.png" width="45"/>
 </div>
+
+---
+
+## 📫 Connect With Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jahirul-islam-tuku/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" width="140"/>
+  </a>
+  <a href="https://jahirul-islam-tuku.web.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" width="140"/>
+  </a>
+  <a href="https://www.facebook.com/jahirulislamtuku" target="_blank">
+    <img src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" width="140"/>
+  </a>
+</div>
+
+---
+
+## 👨‍💻 About Me  
+
+- 🌍 Based in Saudi Arabia (Medina)  
+- ⚛️ Frontend-focused React & Next.js Developer  
+- 🔄 Experienced with REST APIs & MongoDB  
+- 🚀 Building real-world MERN projects  
+- 🎯 Open to Frontend / React Developer opportunities  
 
 ---
 
