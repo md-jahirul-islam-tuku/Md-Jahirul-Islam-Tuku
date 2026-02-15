@@ -8,13 +8,13 @@ Passionate frontend developer focused on building **modern, responsive, and scal
 ## 🧰 Skills & Tools  
 
 **Frontend**  
-HTML5 · CSS3 · JavaScript (ES6+) · React.js · Next.js · Tailwind CSS · Bootstrap  
+HTML5 · CSS3 · JavaScript (ES6+) · React.js · Next.js · Typescript · Redux · Tailwind CSS · Bootstrap  
 
 **Backend**  
 Node.js · Express.js · MongoDB  
 
 **Tools & Platforms**  
-Git · GitHub · Firebase · Figma · VS Code  
+Git · GitHub · Firebase · Figma · VS Code · ChatGPT · Gemini
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/HTML.png" width="45"/>
