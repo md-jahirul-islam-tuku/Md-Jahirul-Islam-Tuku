@@ -23,7 +23,7 @@ Git · GitHub · Firebase · Figma · VS Code · ChatGPT · Gemini
   <img src="https://i.ibb.co/3Yr1N4bF/NEXTJS.png" width="45"/>
   <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/tailwind.png" width="45"/>
   <img src="https://i.ibb.co/ynt1TRKv/Typescript-1-1.png" width="45"/>
-  <img src="https://i.ibb.co/LzRQ6X6R/Redux1.png" width="45"/>
+  <img src="https://i.ibb.co/84r5j5Px/Redux1.png" width="45"/>
   <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Bootsrap.png" width="45"/>
   <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/node.png" width="45"/>
   <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png" width="45"/>
